@@ -1,0 +1,15 @@
+{
+  "name": "crud-ofertalaboral",
+  "version": "1.0.0",
+  "description": "Crud para inscribir una persona a una oferta laboral",
+  "main": "servidor.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Programacion web mision TIC 2022",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^6.0.12"
+  }
+}
